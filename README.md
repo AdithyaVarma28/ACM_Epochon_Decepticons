@@ -1,13 +1,16 @@
 # Suchintana
 
 ## Overview
-Suchintana is an innovative stress reduction chatbot designed to provide support and lighten the mood through a user-friendly digital interface. The chatbot engages users with interactive conversations, offering humorous and lighthearted responses to help manage stress. Users can chat with the bot to receive a mix of funny jokes, playful banter, and cheerful activities that promote relaxation and laughter. The platform allows users to create profiles and customize their experience, ensuring the content is tailored to their preferences.
+Suchintana("noble thought" in sanskrit) is an innovative stress reduction chatbot designed to provide support and lighten the mood through a user-friendly digital interface. The chatbot engages users with interactive conversations, offering humorous and lighthearted responses to help manage stress. Users can chat with the bot to receive a mix of funny jokes, playful banter, and cheerful activities that promote relaxation and laughter. The platform allows users to create profiles and customize their experience, ensuring the content is tailored to their preferences.
 
 ## Features
+
 - **User Authentication**: Secure sign-up, sign-in, and session management using hashed passwords.
 - **Chat Interface**: Users can send messages and receive AI-generated responses.
 - **Profile Management**: Users can update their email or change their password.
 - **New Conversation**: Clear chat history for a fresh start.
+
+[Website Image]("/images/intro.png")
 
 ## Installation Instructions
 
@@ -35,18 +38,17 @@ Start the Flask application by running:
 ```bash
 python app.py
 ```
-The application will be accessible at http://127.0.0.1:5000.
+The application will be accessible at **http://127.0.0.1:5000**.
 
-Configuration
+## Configuration
 
-Database: Uses SQLite with the data.db file by default.
-AI Model: Utilizes the Hugging Face microsoft/DialoGPT-medium model. Modify the model or parameters in the chat function as needed.
-Notes
+- Database: Uses SQLite with the data.db file by default. 
+- AI Model: Utilizes the Hugging Face microsoft/DialoGPT-medium model. Modify the model or parameters in the chat function as needed.
 
-Ensure the frontend/templates and frontend/static directories contain the necessary HTML and CSS files for the web interface.
-Use a virtual environment to isolate dependencies.
-Future Enhancements
+## Roadmap
 
-Add support for additional AI models.
-Implement role-based access control.
-Enhance UI for a better user experience.
+### Future enhancements include:
+
+- Integration with external APIs.
+- Support for multiple languages to reach a broader audience.
+- Presently we are focusing on stress relief but in future we will focus on complete Mental Health.
