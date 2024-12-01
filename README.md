@@ -10,7 +10,7 @@ Suchintana("noble thought" in sanskrit) is an innovative stress reduction chatbo
 - **Profile Management**: Users can update their email or change their password.
 - **New Conversation**: Clear chat history for a fresh start.
 
-[Website Image]("/images/intro.png")
+<img src="images/intro.png" alt="Introduction Image">
 
 ## Installation Instructions
 
