@@ -12,7 +12,7 @@ Suchintana("noble thought" in sanskrit) is an innovative stress reduction chatbo
 
 Home Page: [Suchintana](URL "https://suchintana.my.canva.site")
 
-<img src="images/intro.png" alt="Introduction Image">
+<img src="media/intro.png" alt="Introduction Image">
 
 ## Installation Instructions
 
