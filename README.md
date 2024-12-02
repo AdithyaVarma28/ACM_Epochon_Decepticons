@@ -14,6 +14,12 @@ Home Page: [Suchintana](https://suchintana.my.canva.site)
 
 <img src="media/intro.png" alt="Introduction Image">
 
+
+https://github.com/user-attachments/assets/eee43c24-d93a-48b4-9da2-ffb6d9689d65
+
+
+
+
 ## Installation Instructions
 
 ### Step 1: Clone the Repository
